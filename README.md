@@ -1,5 +1,5 @@
 # Speedtest-pushbullet
-##Prerequisites
+## Prerequisites
 PfSense with speedtest-cli package installed
-##Usage
+## Usage
 ./pushbullet.sh
